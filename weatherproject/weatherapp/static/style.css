@@ -1,0 +1,32 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:aquamarine
+}
+/* Main container */
+form {
+ background-color: antiquewhite;
+ padding: 20px;
+ text-align: center;
+ width: 300px;
+ border-radius: 8px;
+
+}
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+button{
+    background-color:blue;
+    color: bisque;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color:blueviolet;
+}
